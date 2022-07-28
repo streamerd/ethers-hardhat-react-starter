@@ -107,6 +107,14 @@ h2 {
   text-align: center;
 }
 
+
+
+textarea {
+  width: 100%;
+  min-height: 100px;
+  background: #fdfdfd;
+}
+
 .card {
   display: flex;
   flex-direction: column;
